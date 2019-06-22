@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>I:/ISO file/ThingsCompressed/Icons/Copy.bmp</file>
+        <file>I:/ISO file/ThingsCompressed/Icons/Cut.bmp</file>
+        <file>I:/ISO file/ThingsCompressed/Icons/DeleteSticky.bmp</file>
+        <file>I:/ISO file/ThingsCompressed/Icons/favicon.ico</file>
+        <file>I:/ISO file/ThingsCompressed/Icons/Highlight.bmp</file>
+        <file>I:/ISO file/ThingsCompressed/Icons/New.bmp</file>
+        <file>I:/ISO file/ThingsCompressed/Icons/Open.bmp</file>
+        <file>I:/ISO file/ThingsCompressed/Icons/Paste.bmp</file>
+        <file>I:/ISO file/ThingsCompressed/Icons/Save.bmp</file>
+        <file>I:/ISO file/ThingsCompressed/Icons/Sticky.bmp</file>
+        <file>I:/ISO file/ThingsCompressed/Icons/Turtle.png</file>
+    </qresource>
+</RCC>
